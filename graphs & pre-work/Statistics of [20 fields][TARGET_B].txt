@@ -1,0 +1,321 @@
+zipconvert_2
+	Statistics
+		Count                              3120
+		Mean                              0.214
+		Min                               0.000
+		Max                               1.000
+		Range                             1.000
+		Variance                          0.168
+		Standard Deviation                0.410
+		Standard Error of Mean            0.007
+		Median                            0.000
+		Mode                              0.000
+
+	Pearson Correlations
+		TARGET_B            0.004   Weak
+
+zipconvert_3
+	Statistics
+		Count                              3120
+		Mean                              0.185
+		Min                               0.000
+		Max                               1.000
+		Range                             1.000
+		Variance                          0.151
+		Standard Deviation                0.389
+		Standard Error of Mean            0.007
+		Median                            0.000
+		Mode                              0.000
+
+	Pearson Correlations
+		TARGET_B            -0.013   Weak
+
+zipconvert_4
+	Statistics
+		Count                              3120
+		Mean                              0.214
+		Min                               0.000
+		Max                               1.000
+		Range                             1.000
+		Variance                          0.168
+		Standard Deviation                0.410
+		Standard Error of Mean            0.007
+		Median                            0.000
+		Mode                              0.000
+
+	Pearson Correlations
+		TARGET_B            -0.013   Weak
+
+zipconvert_5
+	Statistics
+		Count                              3120
+		Mean                              0.385
+		Min                               0.000
+		Max                               1.000
+		Range                             1.000
+		Variance                          0.237
+		Standard Deviation                0.487
+		Standard Error of Mean            0.009
+		Median                            0.000
+		Mode                              0.000
+
+	Pearson Correlations
+		TARGET_B            0.021   Weak
+
+homeowner dummy
+	Statistics
+		Count                              3120
+		Mean                              0.770
+		Min                               0.000
+		Max                               1.000
+		Range                             1.000
+		Variance                          0.177
+		Standard Deviation                0.421
+		Standard Error of Mean            0.008
+		Median                            1.000
+		Mode                              1.000
+
+	Pearson Correlations
+		TARGET_B            0.030   Medium
+
+NUMCHLD
+	Statistics
+		Count                              3120
+		Mean                              1.069
+		Min                               1.000
+		Max                               5.000
+		Range                             4.000
+		Variance                          0.121
+		Standard Deviation                0.348
+		Standard Error of Mean            0.006
+		Median                            1.000
+		Mode                              1.000
+
+	Pearson Correlations
+		TARGET_B            -0.046   Strong
+
+INCOME
+	Statistics
+		Count                              3120
+		Mean                              3.894
+		Min                               1.000
+		Max                               7.000
+		Range                             6.000
+		Variance                          2.677
+		Standard Deviation                1.636
+		Standard Error of Mean            0.029
+		Median                            4.000
+		Mode                              4.000
+
+	Pearson Correlations
+		TARGET_B            0.034   Medium
+
+gender dummy
+	Statistics
+		Count                              3120
+		Mean                              0.609
+		Min                               0.000
+		Max                               1.000
+		Range                             1.000
+		Variance                          0.238
+		Standard Deviation                0.488
+		Standard Error of Mean            0.009
+		Median                            1.000
+		Mode                              1.000
+
+	Pearson Correlations
+		TARGET_B            0.026   Weak
+
+WEALTH
+	Statistics
+		Count                              3120
+		Mean                              6.402
+		Min                               0.000
+		Max                               9.000
+		Range                             9.000
+		Variance                          6.451
+		Standard Deviation                2.540
+		Standard Error of Mean            0.045
+		Median                            8.000
+		Mode                              8.000
+
+	Pearson Correlations
+		TARGET_B            0.003   Weak
+
+HV
+	Statistics
+		Count                                   3120
+		Mean                                1141.362
+		Min                                    0.000
+		Max                                 5945.000
+		Range                               5945.000
+		Variance                          896131.383
+		Standard Deviation                   946.642
+		Standard Error of Mean                16.948
+		Median                               822.000
+		Mode                                   0.000
+
+	Pearson Correlations
+		TARGET_B            0.023   Weak
+
+Icmed
+	Statistics
+		Count                                  3120
+		Mean                                388.217
+		Min                                   0.000
+		Max                                1500.000
+		Range                              1500.000
+		Variance                          29865.353
+		Standard Deviation                  172.816
+		Standard Error of Mean                3.094
+		Median                              356.000
+		Mode                                288.000
+
+	Pearson Correlations
+		TARGET_B            0.008   Weak
+
+Icavg
+	Statistics
+		Count                                  3120
+		Mean                                432.088
+		Min                                   0.000
+		Max                                1331.000
+		Range                              1331.000
+		Variance                          28289.593
+		Standard Deviation                  168.195
+		Standard Error of Mean                3.011
+		Median                              396.000
+		Mode                                 0.000*
+
+		*Multiple modes exist.  The smallest value is shown.
+	Pearson Correlations
+		TARGET_B            0.002   Weak
+
+IC15
+	Statistics
+		Count                                3120
+		Mean                               14.703
+		Min                                 0.000
+		Max                                90.000
+		Range                              90.000
+		Variance                          145.924
+		Standard Deviation                 12.080
+		Standard Error of Mean              0.216
+		Median                             12.000
+		Mode                                0.000
+
+	Pearson Correlations
+		TARGET_B            -0.003   Weak
+
+NUMPROM
+	Statistics
+		Count                                3120
+		Mean                               49.089
+		Min                                11.000
+		Max                               157.000
+		Range                             146.000
+		Variance                          516.068
+		Standard Deviation                 22.717
+		Standard Error of Mean              0.407
+		Median                             48.000
+		Mode                               24.000
+
+	Pearson Correlations
+		TARGET_B            0.075   Strong
+
+RAMNTALL
+	Statistics
+		Count                                  3120
+		Mean                                110.400
+		Min                                  15.000
+		Max                                5674.900
+		Range                              5659.900
+		Variance                          21697.270
+		Standard Deviation                  147.300
+		Standard Error of Mean                2.637
+		Median                               81.000
+		Mode                                 25.000
+
+	Pearson Correlations
+		TARGET_B            0.020   Weak
+
+MAXRAMNT
+	Statistics
+		Count                                 3120
+		Mean                                16.651
+		Min                                  5.000
+		Max                               1000.000
+		Range                              995.000
+		Variance                           493.885
+		Standard Deviation                  22.224
+		Standard Error of Mean               0.398
+		Median                              15.000
+		Mode                                10.000
+
+	Pearson Correlations
+		TARGET_B            -0.020   Weak
+
+LASTGIFT
+	Statistics
+		Count                                3120
+		Mean                               13.523
+		Min                                 0.000
+		Max                               219.000
+		Range                             219.000
+		Variance                          111.967
+		Standard Deviation                 10.581
+		Standard Error of Mean              0.189
+		Median                             10.000
+		Mode                               10.000
+
+	Pearson Correlations
+		TARGET_B            -0.080   Strong
+
+totalmonths
+	Statistics
+		Count                               3120
+		Mean                              31.137
+		Min                               17.000
+		Max                               37.000
+		Range                             20.000
+		Variance                          17.081
+		Standard Deviation                 4.133
+		Standard Error of Mean             0.074
+		Median                            31.000
+		Mode                              31.000
+
+	Pearson Correlations
+		TARGET_B            -0.137   Strong
+
+TIMELAG
+	Statistics
+		Count                               3120
+		Mean                               6.862
+		Min                                0.000
+		Max                               77.000
+		Range                             77.000
+		Variance                          30.927
+		Standard Deviation                 5.561
+		Standard Error of Mean             0.100
+		Median                             5.000
+		Mode                               5.000
+
+	Pearson Correlations
+		TARGET_B            0.010   Weak
+
+AVGGIFT
+	Statistics
+		Count                                3120
+		Mean                               10.691
+		Min                                 2.139
+		Max                               122.167
+		Range                             120.028
+		Variance                           55.413
+		Standard Deviation                  7.444
+		Standard Error of Mean              0.133
+		Median                              9.000
+		Mode                               15.000
+
+	Pearson Correlations
+		TARGET_B            -0.082   Strong
+

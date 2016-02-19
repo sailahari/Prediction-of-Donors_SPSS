@@ -1,0 +1,9 @@
+AVGGIFT
+totalmonths
+NUMCHLD
+NUMPROM
+LASTGIFT
+
+
+INCOME
+homeowner dummy
